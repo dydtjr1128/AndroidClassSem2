@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "833209470081",
+    "firebase_url": "https://studysem2-52523.firebaseio.com",
+    "project_id": "studysem2-52523",
+    "storage_bucket": "studysem2-52523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833209470081:android:35c2c04ff34d2760",
+        "android_client_info": {
+          "package_name": "hifly.ac.kr.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833209470081-6hj1kp113dvnu968q35kb0h4ctt62fhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hifly.ac.kr.myapplication",
+            "certificate_hash": "7fee4607b8eb5fbb2dc28bc3fb00a9cbfb145774"
+          }
+        },
+        {
+          "client_id": "833209470081-bmibf1k328fivtgtjp2iefsfkpqddnds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY0q-oezdnb1fcY2kCGzDrhA4m19Joe9Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833209470081-bmibf1k328fivtgtjp2iefsfkpqddnds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

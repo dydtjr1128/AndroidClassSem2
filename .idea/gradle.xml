@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/FirebaseEX" />
+            <option value="$PROJECT_DIR$/FirebaseNotificationEX" />
+            <option value="$PROJECT_DIR$/FirebaseStorageEX" />
+            <option value="$PROJECT_DIR$/GooleMapEX" />
+            <option value="$PROJECT_DIR$/LocationEX" />
+            <option value="$PROJECT_DIR$/LocationServiceEX" />
+            <option value="$PROJECT_DIR$/MaterialEX" />
+            <option value="$PROJECT_DIR$/NotificationEX" />
+            <option value="$PROJECT_DIR$/PracticeEX" />
+            <option value="$PROJECT_DIR$/RealtimeDatabaseEX" />
+            <option value="$PROJECT_DIR$/SenorEX" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

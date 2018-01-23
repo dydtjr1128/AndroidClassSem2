@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirebaseEX/FirebaseEX.iml" filepath="$PROJECT_DIR$/FirebaseEX/FirebaseEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirebaseNotificationEX/FirebaseNotificationEX.iml" filepath="$PROJECT_DIR$/FirebaseNotificationEX/FirebaseNotificationEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirebaseStorageEX/FirebaseStorageEX.iml" filepath="$PROJECT_DIR$/FirebaseStorageEX/FirebaseStorageEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GooleMapEX/GooleMapEX.iml" filepath="$PROJECT_DIR$/GooleMapEX/GooleMapEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocationEX/LocationEX.iml" filepath="$PROJECT_DIR$/LocationEX/LocationEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocationServiceEX/LocationServiceEX.iml" filepath="$PROJECT_DIR$/LocationServiceEX/LocationServiceEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialEX/MaterialEX.iml" filepath="$PROJECT_DIR$/MaterialEX/MaterialEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotificationEX/NotificationEX.iml" filepath="$PROJECT_DIR$/NotificationEX/NotificationEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeEX/PracticeEX.iml" filepath="$PROJECT_DIR$/PracticeEX/PracticeEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RealtimeDatabaseEX/RealtimeDatabaseEX.iml" filepath="$PROJECT_DIR$/RealtimeDatabaseEX/RealtimeDatabaseEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SenorEX/SenorEX.iml" filepath="$PROJECT_DIR$/SenorEX/SenorEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudySem2.iml" filepath="$PROJECT_DIR$/StudySem2.iml" />
+    </modules>
+  </component>
+</project>
